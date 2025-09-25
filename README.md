@@ -1,4 +1,4 @@
-# Bank Loan Report Dashboard
+# Bank Loan Portfolio Analysis & Risk Insights
 
 ## Project Overview
 The **Bank Loan Report** is a comprehensive analytical dashboard built to monitor and assess a bank's lending activities and portfolio performance.  
