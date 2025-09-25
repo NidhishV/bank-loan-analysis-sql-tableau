@@ -4,7 +4,7 @@
 The **Bank Loan Report** is a comprehensive analytical dashboard built to monitor and assess a bank's lending activities and portfolio performance.  
 It provides insights into loan applications, disbursements, repayments, and borrower financial health through **KPIs, trend analysis, and interactive visualizations**.  
 
-This project was implemented in **Power BI** (primary tool), with SQL scripts for data analysis and connection handling.  
+This project was implemented in **Tableau** (primary tool), with SQL scripts for data analysis and python for connection handling.  
 
 ---
 
@@ -41,7 +41,9 @@ The objective of this project is to:
 - Total Funded Amount (Overall, MTD, MoM)  
 - Total Amount Received (Overall, MTD, MoM)  
 - Average Interest Rate (Overall, MTD, MoM)  
-- Average Debt-to-Income Ratio (DTI) (Overall, MTD, MoM)  
+- Average Debt-to-Income Ratio (DTI) (Overall, MTD, MoM)
+
+[![summary.png](https://i.postimg.cc/Fz1Rk39K/summary.png)](https://postimg.cc/jn0KGWnV) 
 
 ### Good Loan vs Bad Loan KPIs
 - % of Good Loans vs Bad Loans  
@@ -55,12 +57,16 @@ The objective of this project is to:
 - **Loan Term Analysis (Donut Chart)** – Distribution by 36/60 month terms  
 - **Employment Length Analysis (Bar Chart)** – Lending by borrower job tenure  
 - **Loan Purpose Breakdown (Bar Chart)** – Loan purposes like debt consolidation, refinancing  
-- **Home Ownership Analysis (Tree Map)** – Loan distribution by ownership type  
+- **Home Ownership Analysis (Tree Map)** – Loan distribution by ownership type
+
+[![overview.png](https://i.postimg.cc/JzjhX1Wj/overview.png)](https://postimg.cc/CRLYTp5K)
 
 ### Dashboard 3: Details
 - Grid view of loan portfolio by **Loan Status**  
 - Metrics: Loan Applications, Funded Amount, Amount Received, Avg Interest Rate, Avg DTI  
-- Borrower-level insights and repayment history  
+- Borrower-level insights and repayment history
+
+[![details.png](https://i.postimg.cc/nVs9zfMG/details.png)](https://postimg.cc/Lhp8C7tJ)
 
 ---
 
