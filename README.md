@@ -1,5 +1,5 @@
 # Bank Loan Portfolio Analysis & Risk Insights
-[![Screenshot-2025-09-25-at-11-19-28-PM.png](https://i.postimg.cc/qM17Xmtv/Screenshot-2025-09-25-at-11-19-28-PM.png)](https://postimg.cc/svZy349k)
+[![Screenshot-2025-09-25-at-11-34-28-PM.png](https://i.postimg.cc/dVKKCr6V/Screenshot-2025-09-25-at-11-34-28-PM.png)](https://postimg.cc/xcg7DkBw)
 ## Project Overview
 The **Bank Loan Report** is a comprehensive analytical dashboard built to monitor and assess a bank's lending activities and portfolio performance.  
 It provides insights into loan applications, disbursements, repayments, and borrower financial health through **KPIs, trend analysis, and interactive visualizations**.  
