@@ -78,9 +78,6 @@ The objective of this project is to:
 
 ---
 
-## Project Structure
-
-
 ## Scripts
 - **db_connection.py** → Establishes database connection and fetches loan data.  
 - **loan_analysis_queries.sql** → SQL queries for extracting KPIs and metrics.
