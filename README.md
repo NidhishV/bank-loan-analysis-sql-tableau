@@ -1,5 +1,5 @@
 # Bank Loan Portfolio Analysis & Risk Insights
-
+[![HD-wallpaper-personal-loan-emi-calculator-personal-loan-personal-loan-india-fianance-loans-banking.jpg](https://i.postimg.cc/g2GvrtCc/HD-wallpaper-personal-loan-emi-calculator-personal-loan-personal-loan-india-fianance-loans-banking.jpg)](https://postimg.cc/KRsKHfcC)
 ## Project Overview
 The **Bank Loan Report** is a comprehensive analytical dashboard built to monitor and assess a bank's lending activities and portfolio performance.  
 It provides insights into loan applications, disbursements, repayments, and borrower financial health through **KPIs, trend analysis, and interactive visualizations**.  
